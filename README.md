@@ -1,2 +1,2 @@
-# CASE_STUDY
+# Projects
 Practice case study
